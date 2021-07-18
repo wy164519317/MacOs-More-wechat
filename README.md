@@ -1,2 +1,2 @@
-# More-wechat
-微信多开
+# MacOs-More-wechat
+MacOs微信多开
